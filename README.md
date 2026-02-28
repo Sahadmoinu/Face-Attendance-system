@@ -1,4 +1,6 @@
-# Face-Attendance-system
+x# Face-Attendance-system
+A real-time face recognition attendance system that detects users through webcam and logs attendance automatically using a Laravel backend API.
+
 Face Recognition Attendance System (Python & Laravel API)
 
 Developed a real-time face recognition system using Python, OpenCV, and face_recognition library.
